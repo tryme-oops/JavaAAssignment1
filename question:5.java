@@ -45,6 +45,6 @@ public class Main {
         }
         System.out.println("Medications -> ");
         System.out.println(medicationsMap);
-        /* Part 2 Ends */
+        
     }
 }

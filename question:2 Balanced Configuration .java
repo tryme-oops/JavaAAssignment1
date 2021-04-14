@@ -53,7 +53,7 @@ public static boolean isParenthesisMatch(String str)
 	
 
 	public static void main(String[] args) {
-		String str = "{}()";
+		String str = "{}())";
 		String str1 = "({()})";
 		String str2 = "{}(";
 		String str3 = "[]";
